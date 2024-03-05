@@ -1,5 +1,5 @@
 <h1>👋 Hey there! I'm Prayuja Teli</h1>
-a passionate computer science graduate student at Drexel University in Philadelphia. 
+A passionate computer science graduate student at Drexel University in Philadelphia. 
 
 <p align="middle">
 
