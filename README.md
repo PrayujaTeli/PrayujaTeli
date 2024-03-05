@@ -1,6 +1,4 @@
-<h1>👋 Hey there!</h1>
-
-I'm <h1>**Prayuja Teli**</h1>, a passionate computer science graduate student at **Drexel University** in **Philadelphia**. 
+<h1>👋 Hey there! I'm <h1>**Prayuja Teli**</h1>, a passionate computer science graduate student at **Drexel University** in **Philadelphia**. 
 
 <p align="middle">
 
