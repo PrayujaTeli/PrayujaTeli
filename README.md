@@ -3,7 +3,6 @@
 I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel University** in **Philadelphia**. 
 
 <p align="middle">
-  
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -27,12 +26,10 @@ I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel
   ![Front-end](https://img.shields.io/badge/Front--end-FF5722?style=for-the-badge&logoColor=white)
   ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
   ![Back-end](https://img.shields.io/badge/Back--end-000000?style=for-the-badge&logoColor=white)
-  ![Unit testing](https://img.shields.io/badge/Unit_testing-00BFFF?style=for-the-badge&logo=testing-library&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
   ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
   ![Kanban](https://img.shields.io/badge/Kanban-0093DD?style=for-the-badge&logo=kanban&logoColor=white)
-  ![Software Development Life Cycle](https://img.shields.io/badge/Software_Development_Life_Cycle-0A66C2?style=for-the-badge&logoColor=white)
   ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white)
   ![ETL](https://img.shields.io/badge/ETL-FF3A00?style=for-the-badge&logoColor=white)
 
@@ -42,7 +39,6 @@ I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=rest&logoColor=white)
 </p>
 
