@@ -1,4 +1,4 @@
-<span style="font-size: larger;">### 👋 Hey there!</span>
+<h1>### 👋 Hey there!</h1>
 
 I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel University** in **Philadelphia**. 
 
