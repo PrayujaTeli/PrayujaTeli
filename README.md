@@ -28,7 +28,6 @@ I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel
   ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
   ![Back-end](https://img.shields.io/badge/Back--end-000000?style=for-the-badge&logoColor=white)
   ![Unit testing](https://img.shields.io/badge/Unit_testing-00BFFF?style=for-the-badge&logo=testing-library&logoColor=white)
-  ![DBVisualizer](https://img.shields.io/badge/DBVisualizer-FF9900?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEVHcEz///////////////9lUrooAAAAB3RSTlMA+IVr7QwkAwAAACxJREFUeF5tzEEOACAMA+CMSP//0MMgoLMRDV5SIgs+Gghqu4GhFjYdCkM2KGAAY2DA6BwgBVIw/0Y2HgAAAABJRU5ErkJggg==&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
   ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
