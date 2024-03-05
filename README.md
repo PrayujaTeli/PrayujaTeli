@@ -2,6 +2,9 @@
 
 I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel University** in **Philadelphia**. 
 
+<p align="middle">
+  
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +45,7 @@ I'm **Prayuja Teli**, a passionate computer science graduate student at **Drexel
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=rest&logoColor=white)
-
+</p>
 
 With a knack for problem-solving and a love for technology, I'm on a mission to make a difference in the world through my work. My journey in software engineering began at **Krishagni Solutions Pvt Ltd**, where I honed my skills in **Java**, **JavaScript**, and more. From developing innovative solutions like the OpenSpecimen Android Application to configuring healthcare research projects for breast cancer and COVID-19 studies, I've had the opportunity to make a real impact. At **eClerx Pvt Ltd**, I furthered my expertise in **database design** and analysis, contributing to improved customer satisfaction and efficiency. When I'm not coding, you'll find me working on exciting personal projects like the **DMS Android Application** or diving into the world of IoT with my **Automated Switch System**. With a strong foundation in both technical skills and practical experience, I'm ready to take on new challenges and continue making a positive mark in the tech industry.
 
