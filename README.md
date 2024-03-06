@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer and computer science graduate student at Drexel University in Philadelphia, PA, USA.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
-🔭 I’m currently working on [GrowBot](https://prayujateli.github.io/GrowBot) an automated garden box <br>
-👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories)<br>
-📝 I regularly write blogs on [Medium](https://medium.com/@teliprayuja) <br>
+🔭 I’m currently working on [GrowBot](https://prayujateli.github.io/GrowBot) an automated garden box. <br>
+👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
+📝 I regularly write blogs on [Medium](https://medium.com/@teliprayuja). <br>
 📫 You can reach me to: [pst29@drexel.edu](pst29@drexel.edu)<br>
 
 <h3 align="left">Connect with me:</h3>
