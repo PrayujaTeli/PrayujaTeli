@@ -2,13 +2,15 @@
 <h3 align="center">A passionate developer and computer science graduate student at Drexel University in Philadelphia, PA, USA.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prayujateli" alt="prayujateli" /></a> </p>
-- 🔭 I’m currently working on GrowBot a automated garden box [GrowBot](https://github.com/PrayujaTeli/GrowBot)
+- 🔭 I’m currently working on GrowBot, an automated garden box. [GrowBot](https://github.com/PrayujaTeli/GrowBot)
 - 👨‍💻 All of my projects are available at [https://github.com/PrayujaTeli](https://github.com/PrayujaTeli)
 - 📝 I regularly write articles on [https://medium.com/@teliprayuja](https://medium.com/@teliprayuja)
-- 📫 How to reach me **pst29@drexel.edu**
+- 📫 How to reach me: **pst29@drexel.edu**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/teliprayuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teliprayuja" height="30" width="40" /></a>
