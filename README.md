@@ -3,13 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prayujateli" alt="prayujateli" /></a> </p>
 - 🔭 I’m currently working on GrowBot, an automated garden box. [GrowBot](https://prayujateli.github.io/GrowBot)
-- 👨‍💻 All of my projects are available at [https://github.com/PrayujaTeli](https://prayujateli.github.io/PrayujaTeli)
-- 📝 I regularly write articles on [Medium](https://medium.com/@teliprayuja)
+- 👨‍💻 All of my projects are available at [Github](https://prayujateli.github.io/PrayujaTeli)
+- 📝 I regularly write articles on [Medium](https://medium.com/@teliprayuja) [ping Command](https://prayujateli.github.io/Blogs/ping)
 - 📫 How to reach me: [pst29@drexel.edu](pst29@drexel.edu)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
