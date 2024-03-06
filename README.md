@@ -1,4 +1,3 @@
-<h1>👋 Hey there! I'm Prayuja Teli</h1>
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXX-X"></script>
 <script>
@@ -8,6 +7,8 @@
 
   gtag('config', 'UA-XXXXXXXX-X');
 </script>
+
+<h1>👋 Hey there! I'm Prayuja Teli</h1>
 
 A passionate computer science graduate student at Drexel University in Philadelphia. 
 
@@ -41,7 +42,7 @@ A passionate computer science graduate student at Drexel University in Philadelp
   ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white)
   ![ETL](https://img.shields.io/badge/ETL-FF3A00?style=for-the-badge&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -54,7 +55,4 @@ With a knack for problem-solving and a love for technology, I'm on a mission to 
 
 - **Master in Science - Computer Science** from **Drexel University** (Anticipated Graduation: June 2025)
 - Experienced in **Java**, **JavaScript (ES5/ES6)**, **Python**, and more
-- Skilled in **front-end** and **back-end development**, **UI/UX design**, and **Agile methodologies**
-- Proven track record of delivering impactful software solutions and contributing to team success
-- Passionate about learning and staying up-to-date with the latest technologies and trends
-- Dedicated to creating user-friendly and efficient applications that make a difference in people's lives
+-
