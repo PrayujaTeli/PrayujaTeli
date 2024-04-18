@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayuja</h1>
-<h3 align="center">A passionate developer and computer science graduate student at Drexel University in Philadelphia, PA, USA.</h3>
+<h3 align="center">A passionate analyst and computer science graduate student at Drexel University in Philadelphia, PA, USA.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
