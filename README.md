@@ -32,51 +32,54 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayujateli&show_icons=true&locale=en&layout=compact" alt="prayujateli" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayujateli&" alt="prayujateli" /></p>
 
+# Prayuja Teli
 
-## Prayuja Teli
+[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli) | [Kaggle](https://www.kaggle.com/prayujateli) | [Email](mailto:pst29@drexel.edu)
 
-[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli) | [Kaggle](https://www.kaggle.com/prayujateli) | [Email](mailto:pst29@drexel.edu) 
+## Summary
 
-### Summary
+Data analyst with 5 years of expertise in healthcare research & IT industry, specializing in COVID-19, breast cancer, & Alzheimer's disease. Proficient in data analysis & visualization techniques to derive operative insights.
 
-Data analyst with 5 years of expertise in healthcare research & IT industry, specializing in COVID-19, breast cancer, & Alzheimer's disease. Proficient in data analysis, & visualization techniques to derive operative insights.
-
-### Education
+## Education
 
 **Drexel University**  
 Master in Science - Computer Science (GPA 3.8)  
 Pennsylvania  
 Sep 2023 - Present
 
-### Skills
+## Skills
 
-- **Languages:** Python, SQL, MySQL, SQLite, FireBase, GCP, AWS, Excel, JavaScript, Sharepoint.
-- **Libraries:** Pandas, Seaborn, Pyspark, NumPy, Matplotlib, Plotly, SciPy.
-- **Tools:** Tableau, Power BI, QlikView, Looker, Git, GitLab, Jira, Jupyter Notebook, PyCharm, NLP, Visual Studio, DBVisualizer, MySQL Workbench, Docker.
-- **Skills:** Data visualization, Data Cleaning & Analysis, Database Management, Confluence.
+- **Languages:** Python, SQL, MySQL, SQLite, FireBase, GCP, AWS, Excel, JavaScript, Sharepoint
+- **Libraries:** Pandas, Seaborn, Pyspark, NumPy, Matplotlib, Plotly, SciPy
+- **Tools:** Tableau, Power BI, QlikView, Looker, Git, GitLab, Jira, Jupyter Notebook, PyCharm, NLP, Visual Studio, DBVisualizer, MySQL Workbench, Docker
+- **Skills:** Data visualization, Data Cleaning & Analysis, Database Management, Confluence
 
-### Professional Experience
+## Professional Experience
 
-**Lead Data Analyst** - Krishagni Solutions Pvt Ltd  
-Apr 2019 - Sep 2023
+### Lead Data Analyst - Krishagni Solutions Pvt Ltd  
+**Apr 2019 - Sep 2023**
 
 - Configured 6+ healthcare research projects for COVID-19, breast cancer, & Alzheimer's disease utilizing Excel, Python, & SQL for data retrieval & analysis. Delivered weekly dashboard updates using Tableau. [Link](https://demo.openspecimen.org/#/specimen-catalogs/1/dashboard)
-- Refined Dataset of 5 million records using MySQL, to reduce 20+ hours of work for ETL engineers for each migration cycle.
-- Developed a JavaScript-based private catalog for COVID-19 with 1 million datasets, facilitating sample comparison across biobanks. Saved over 30+ hours of human effort.
+- Refined dataset of 5 million records using MySQL, reducing 20+ hours of work for ETL engineers for each migration cycle.
+- Developed a JavaScript-based private catalog for COVID-19 with 1 million datasets, facilitating sample comparison across biobanks, saving over 30+ hours of human effort.
 - Designed JavaScript workflow configurations for cancer research for 3+ US clients, streamlining data entry processes & reducing manual data entry efforts by over 50%.
-- Created data & market analysis for the OpenSpecimen mobile app resulting in a 35% increase in sales.
+- Created data & market analysis for the OpenSpecimen mobile app, resulting in a 35% increase in sales.
 - Migrated Legacy Protected Health Information (PHI) data from ODK & FileMaker Pro databases to SQL & Oracle databases for 5+ clients.
 - Deployed OpenSpecimen product for 10+ clients using Jenkins & AWS. Automated deployment facility for a product, saving over 50 hours of resources for every release.
 
-**Analyst** - eClerx Pvt Ltd  
-Jun 2018 - Mar 2019
+### Analyst - eClerx Pvt Ltd  
+**Jun 2018 - Mar 2019**
 
 - Reduced healthcare data retrieval time by 20% with MySQL, enabling faster access to data for analysis.
 - Leveraged Jira & SQL queries to analyze 100+ product queries with a 25% improvement in response time.
 
-### Projects
+## Projects
 
-- **VitalGuard Analytics**: Directed Suicide rate analytics utilizing Python, Pandas, & NumPy leading to a 20% increased data accuracy. Performed visualization with Tableau, & achieved a 15% improvement in informed evidence-based policies. [Link](https://github.com/PrayujaTeli/VitalGuard-Analytics)
-- **Covid-19 Analysis**: Analyzed COVID-19 patient data using Python, Pandas, & Matplotlib, revealing insights into demographics, comorbidities, & outcomes. Presented findings through statistical analysis & visualization for enhanced understanding. [Link](https://www.kaggle.com/code/prayujateli/covid-19-data-analysis?kernelSessionId=171902076)
-- **Amusement Park Management System**: Utilized SQLite & DBVisualizer to develop an Amusement Park Management System, ensuring seamless operations & optimizing visitor experiences. Designed a comprehensive schema encompassing rides, attractions, visitors, staff, & ticketing. [Link](https://github.com/PrayujaTeli/Amusement-Park)
+### VitalGuard Analytics
+Directed Suicide rate analytics utilizing Python, Pandas, & NumPy leading to a 20% increased data accuracy. Performed visualization with Tableau, & achieved a 15% improvement in informed evidence-based policies. [Link](https://github.com/PrayujaTeli/VitalGuard-Analytics)
 
+### Covid-19 Analysis
+Analyzed COVID-19 patient data using Python, Pandas, & Matplotlib, revealing insights into demographics, comorbidities, & outcomes. Presented findings through statistical analysis & visualization for enhanced understanding. [Link](https://www.kaggle.com/code/prayujateli/covid-19-data-analysis?kernelSessionId=171902076)
+
+### Amusement Park Management System
+Utilized SQLite & DBVisualizer to develop an Amusement Park Management System, ensuring seamless operations & optimizing visitor experiences. Designed a comprehensive schema encompassing rides, attractions, visitors, staff, & ticketing. [Link](https://github.com/PrayujaTeli/Amusement-Park)
