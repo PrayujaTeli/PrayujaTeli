@@ -35,7 +35,7 @@
 
 ## Prayuja Teli
 
-[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli) | [Kaggle](https://www.kaggle.com/prayujateli) | [Email](mailto:pst29@drexel.edu) | +1(215) 669-1582
+[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli) | [Kaggle](https://www.kaggle.com/prayujateli) | [Email](mailto:pst29@drexel.edu) 
 
 ### Summary
 
