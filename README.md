@@ -43,23 +43,17 @@ Data analyst with 5 years of expertise in healthcare research & IT industry, spe
 ## Education
 
 **Drexel University**  
-Master in Science - Computer Science (GPA 3.8)  
-Pennsylvania  
-Sep 2023 - Present
+Master in Science - Computer Science (GPA 3.8) &nbsp;&nbsp;&nbsp;  Pennsylvania  (Sep 2023 - May 2025)
 
 ## Skills
 
-**Languages:**  
-**Python, R,** JavaScript, **SQL, PostgreSQL, MySQL,** MongoDB, Oracle, SQLite.
+**Languages:**   - **Python, R,** JavaScript, **SQL, PostgreSQL, MySQL,** MongoDB, Oracle, SQLite.
 
-**Machine Learning:**  
-**Pandas,** Seaborn, PyTorch, TensorFlow, Pyspark, NumPy, Scikit-learn, Matplotlib, Plotly.
+**Machine Learning:**   - **Pandas,** Seaborn, PyTorch, TensorFlow, Pyspark, NumPy, Scikit-learn, Matplotlib, Plotly.
 
-**Tools:**  
-**Tableau,** Power BI, Smartsheets, MS Office Suite, Sharepoint, NLP, **Git,** GitLab, Azure, **Jupyter Notebook,** Visual Studio, MySQL Workbench, Jira, GCP, AWS, Confluence.
+**Tools:**   - **Tableau,** Power BI, Smartsheets, MS Office Suite, Sharepoint, NLP, **Git,** GitLab, Azure, **Jupyter Notebook,** Visual Studio, MySQL Workbench, Jira, GCP, AWS, Confluence.
 
-**Skills:**  
-**Data visualization**, Data Cleaning & Analysis, Database Management, Scrum, Confluence.
+**Skills:**   - **Data visualization**, Data Cleaning & Analysis, Database Management, Scrum, Confluence.
 
 ## Professional Experience
 
