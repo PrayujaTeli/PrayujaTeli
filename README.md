@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
-👨‍💻 Innovative Dashboards can be found here - [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes)<br>
+👨‍💻 Innovative Dashboards can be found here [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes)<br>
 📝 I regularly write blogs on [Medium](https://medium.com/@teliprayuja). <br>
 📫 You can reach me to: [pst29@drexel.edu](pst29@drexel.edu)<br>
 
@@ -43,7 +43,7 @@ Data analyst with 5 years of expertise in healthcare research & IT industry, spe
 ## Education
 
 **Drexel University**  
-Master in Science - Computer Science (GPA 3.8) &nbsp;&nbsp;&nbsp;  Pennsylvania  (Sep 2023 - May 2025)
+Master of Science - Computer Science - GPA 3.8/4 &nbsp;&nbsp;&nbsp;  Pennsylvania  (Sep 2023 - May 2025)
 
 ## Skills
 
