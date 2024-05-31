@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayuja</h1>
-<h2 align="center"> A Passionate Data analyst</h2>
+<h2 align="center"> A Passionate Data Analyst</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
@@ -49,10 +49,17 @@ Sep 2023 - Present
 
 ## Skills
 
-- **Languages:** Python, SQL, MySQL, SQLite, FireBase, GCP, AWS, Excel, JavaScript, Sharepoint
-- **Libraries:** Pandas, Seaborn, Pyspark, NumPy, Matplotlib, Plotly, SciPy
-- **Tools:** Tableau, Power BI, QlikView, Looker, Git, GitLab, Jira, Jupyter Notebook, PyCharm, NLP, Visual Studio, DBVisualizer, MySQL Workbench, Docker
-- **Skills:** Data visualization, Data Cleaning & Analysis, Database Management, Confluence
+**Languages:**  
+**Python, R,** JavaScript, **SQL, PostgreSQL, MySQL,** MongoDB, Oracle, SQLite.
+
+**Machine Learning:**  
+**Pandas,** Seaborn, PyTorch, TensorFlow, Pyspark, NumPy, Scikit-learn, Matplotlib, Plotly.
+
+**Tools:**  
+**Tableau,** Power BI, Smartsheets, MS Office Suite, Sharepoint, NLP, **Git,** GitLab, Azure, **Jupyter Notebook,** Visual Studio, MySQL Workbench, Jira, GCP, AWS, Confluence.
+
+**Skills:**  
+**Data visualization**, Data Cleaning & Analysis, Database Management, Scrum, Confluence.
 
 ## Professional Experience
 
