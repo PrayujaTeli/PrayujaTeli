@@ -38,7 +38,7 @@
 
 ## Summary
 
-Data analyst with 5 years of expertise in healthcare research & IT industry, specializing in COVID-19, breast cancer, & Alzheimer's disease. Proficient in data analysis & visualization techniques to derive operative insights.
+Data Engineer with 5 years of expertise in healthcare research & IT industry, specializing in COVID-19, breast cancer, & Alzheimer's disease. Proficient in data analysis & visualization techniques to derive operative insights.
 
 ## Education
 
@@ -57,7 +57,7 @@ Master of Science - Computer Science - GPA 3.8/4 &nbsp;&nbsp;&nbsp;  Pennsylvani
 
 ## Professional Experience
 
-### Lead Data Analyst - Krishagni Solutions Pvt Ltd  
+### Lead Data engineer - Krishagni Solutions Pvt Ltd  
 **Apr 2019 - Sep 2023**
 
 - Configured 6+ healthcare research projects for COVID-19, breast cancer, & Alzheimer's disease utilizing Excel, Python, & SQL for data retrieval & analysis. Delivered weekly dashboard updates using Tableau. [Link](https://demo.openspecimen.org/#/specimen-catalogs/1/dashboard)
@@ -68,7 +68,7 @@ Master of Science - Computer Science - GPA 3.8/4 &nbsp;&nbsp;&nbsp;  Pennsylvani
 - Migrated Legacy Protected Health Information (PHI) data from ODK & FileMaker Pro databases to SQL & Oracle databases for 5+ clients.
 - Deployed OpenSpecimen product for 10+ clients using Jenkins & AWS. Automated deployment facility for a product, saving over 50 hours of resources for every release.
 
-### Analyst - eClerx Pvt Ltd  
+### engineer - eClerx Pvt Ltd  
 **Jun 2018 - Mar 2019**
 
 - Reduced healthcare data retrieval time by 20% with MySQL, enabling faster access to data for analysis.
