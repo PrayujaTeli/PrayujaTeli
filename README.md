@@ -43,7 +43,7 @@ Data Engineer with 5 years of expertise in healthcare research & IT industry, sp
 ## Education
 
 **Drexel University**  
-Master of Science - Computer Science - GPA 3.8/4 &nbsp;&nbsp;&nbsp;  Pennsylvania  (Sep 2023 - May 2025)
+Master of Science - Computer Science - GPA 3.89/4 &nbsp;&nbsp;&nbsp;  Pennsylvania  (Sep 2023 - May 2025)
 
 ## Skills
 
