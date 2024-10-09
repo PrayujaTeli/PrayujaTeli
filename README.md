@@ -68,7 +68,7 @@ Master of Science - Computer Science - GPA 3.89/4 &nbsp;&nbsp;&nbsp;  Pennsylvan
 - Migrated Legacy Protected Health Information (PHI) data from ODK & FileMaker Pro databases to SQL & Oracle databases for 5+ clients.
 - Deployed OpenSpecimen product for 10+ clients using Jenkins & AWS. Automated deployment facility for a product, saving over 50 hours of resources for every release.
 
-### engineer - eClerx Pvt Ltd  
+### Analyst - eClerx Pvt Ltd  
 **Jun 2018 - Mar 2019**
 
 - Reduced healthcare data retrieval time by 20% with MySQL, enabling faster access to data for analysis.
