@@ -46,53 +46,69 @@
 
 # Prayuja Teli
 
-[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli) | [Kaggle](https://www.kaggle.com/prayujateli) | [Email](mailto:pst29@drexel.edu)
+[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes) | [Portfolio](https://prayujateli.github.io/Portfolio/) | [Medium](https://medium.com/@teliprayuja) | [pst29@drexel.edu](mailto:pst29@drexel.edu) | +1 (215) 669 1582
+
+---
 
 ## Summary
 
-Data Engineer with 5 years of expertise in healthcare research & IT industry, specializing in COVID-19, breast cancer, & Alzheimer's disease. Proficient in data analysis & visualization techniques to derive operative insights.
+Data Engineer with 5+ years of experience across Healthcare, IT, & Distribution Services, specializing in developing impactful data-driven solutions. Proven success in driving efficiency & accuracy in projects addressing critical issues such as COVID-19, Breast Cancer, Diabetes, & Alzheimer's Disease.
+
+---
 
 ## Education
 
 **Drexel University**  
-Master of Science - Computer Science - GPA 3.89/4 &nbsp;&nbsp;&nbsp;  Pennsylvania  (Sep 2023 - May 2025)
+Master of Science in Computer Science, Pennsylvania, US  
+_Expected June 2025_
 
-## Skills
-
-**Languages:**   - **Python, R,** JavaScript, **SQL, PostgreSQL, MySQL,** MongoDB, Oracle, SQLite.
-
-**Machine Learning:**   - **Pandas,** Seaborn, PyTorch, TensorFlow, Pyspark, NumPy, Scikit-learn, Matplotlib, Plotly.
-
-**Tools:**   - **Tableau,** Power BI, Smartsheets, MS Office Suite, Sharepoint, NLP, **Git,** GitLab, Azure, **Jupyter Notebook,** Visual Studio, MySQL Workbench, Jira, GCP, AWS, Confluence.
-
-**Skills:**   - **Data visualization**, Data Cleaning & Analysis, Database Management, Scrum, Confluence.
+---
 
 ## Professional Experience
 
-### Lead Data engineer - Krishagni Solutions Pvt Ltd  
-**Apr 2019 - Sep 2023**
+### System Analyst Intern  
+**McCollister's Global Services, Inc.** | New Jersey, US  
+_July 2024 - Present_
 
-- Configured 6+ healthcare research projects for COVID-19, breast cancer, & Alzheimer's disease utilizing Excel, Python, & SQL for data retrieval & analysis. Delivered weekly dashboard updates using Tableau. [Link](https://demo.openspecimen.org/#/specimen-catalogs/1/dashboard)
-- Refined dataset of 5 million records using MySQL, reducing 20+ hours of work for ETL engineers for each migration cycle.
-- Developed a JavaScript-based private catalog for COVID-19 with 1 million datasets, facilitating sample comparison across biobanks, saving over 30+ hours of human effort.
-- Designed JavaScript workflow configurations for cancer research for 3+ US clients, streamlining data entry processes & reducing manual data entry efforts by over 50%.
-- Created data & market analysis for the OpenSpecimen mobile app, resulting in a 35% increase in sales.
-- Migrated Legacy Protected Health Information (PHI) data from ODK & FileMaker Pro databases to SQL & Oracle databases for 5+ clients.
-- Deployed OpenSpecimen product for 10+ clients using Jenkins & AWS. Automated deployment facility for a product, saving over 50 hours of resources for every release.
+- Developed interactive Power BI dashboards to track & analyze 100k+ records, improving payroll efficiency by 25%.
+- Designed & optimized SQL Server scripts to manage 500k+ B2B orders, reducing labor by 50+ hours per month. Automated 25+ custom reports using SQL Server Reporting Services & saved 30+ hours of data retrieval time.
 
-### Analyst - eClerx Pvt Ltd  
-**Jun 2018 - Mar 2019**
+### Lead Data Engineer  
+**Krishagni Solutions Pvt Ltd** | Maharashtra, India  
+_April 2019 - September 2023_
 
-- Reduced healthcare data retrieval time by 20% with MySQL, enabling faster access to data for analysis.
-- Leveraged Jira & SQL queries to analyze 100+ product queries with a 25% improvement in response time.
+- Led 6+ healthcare research initiatives focused on COVID-19, Breast Cancer, & Alzheimer's Disease, utilizing Python, REST APIs, & SQL, resulting in a 93% F1 score for data analysis.
+- Built & maintained a private [dashboard/catalog](https://demo.openspecimen.org/#/specimen-catalogs/1/dashboard) with 1 million+ records, reducing research time by 30+ hours per user.
+- Developed a diabetes prediction model using logistic regression, achieving 85% accuracy by analyzing key risk factors across 100k patient records for the University of Cyprus.
+- Developed a Support Vector Machine (SVM) model to classify breast cancer tumors as benign or malignant, resulting in a high classification accuracy of 89%, & providing diagnostics for early intervention in breast cancer patients.
+
+### Analyst  
+**eClerx Pvt Ltd** | Maharashtra, India  
+_June 2018 - March 2019_
+
+- Led the migration of legacy customer data from ODK & FileMaker Pro databases to a SQL-based system for 5+ clients, ensuring data integrity for 1 million+ records using ETL.
+- Developed a JavaScript-based workflow configuration system that streamlined data entry, reducing manual effort by 50% & saving 200+ hours annually.
+- Trained 10+ US bio-banking institutions & 15+ internal team members on data analysis techniques, improving decision-making with advanced data tools.
+
+---
+
+## Skills
+
+**Programming & Libraries:**  
+Python (Pandas, NumPy, TensorFlow, Keras, PyTorch, Scikit-learn, Beautiful Soup, Matplotlib, Seaborn, LightGBM, XGBoost)
+
+**Databases:**  
+SQL, Cassandra, PostgreSQL, Oracle, SQLite, SQL Server, T-SQL
+
+**Tools & Platforms:**  
+Git, Docker, Tableau, Power BI, SQL Server Reporting Services (SSRS), AWS
+
+**Techniques & Methods:**  
+Statistical Analysis, Predictive Modeling, Time Series Analysis, Machine Learning (Supervised Learning), Natural Language Processing (NLP), Cross-Validation, Data Wrangling, Model Deployment, ETL
+
+---
 
 ## Projects
 
-### VitalGuard Analytics
-Directed Suicide rate analytics utilizing Python, Pandas, & NumPy leading to a 20% increased data accuracy. Performed visualization with Tableau, & achieved a 15% improvement in informed evidence-based policies. [Link](https://github.com/PrayujaTeli/VitalGuard-Analytics)
-
-### Covid-19 Analysis
-Analyzed COVID-19 patient data using Python, Pandas, & Matplotlib, revealing insights into demographics, comorbidities, & outcomes. Presented findings through statistical analysis & visualization for enhanced understanding. [Link](https://www.kaggle.com/code/prayujateli/covid-19-data-analysis?kernelSessionId=171902076)
-
-### Amusement Park Management System
-Utilized SQLite & DBVisualizer to develop an Amusement Park Management System, ensuring seamless operations & optimizing visitor experiences. Designed a comprehensive schema encompassing rides, attractions, visitors, staff, & ticketing. [Link](https://github.com/PrayujaTeli/Amusement-Park)
+**Suicide Rate Tracker:**  
+Analyzed 1 million+ suicide records using Pandas & NumPy, improving data accuracy by 89%. Created [Tableau visualizations](https://public.tableau.com/views/VitalGuardAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that boosted evidence-based policy development by 15%.
