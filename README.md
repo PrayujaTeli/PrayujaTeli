@@ -33,7 +33,6 @@
 <!-- Tools & Platforms -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
 <img src="https://d3harc0irmsel1.cloudfront.net/ssrs/images/ssrs-logo.svg" alt="ssrs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
@@ -42,7 +41,6 @@
 
 <img src="https://img.icons8.com/color/452/power-bi.png" alt="Power BI" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayujateli&show_icons=true&locale=en&layout=compact" alt="prayujateli" /></p>
