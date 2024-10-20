@@ -20,8 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/XGBoost_logo.png" alt="xgboost" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
 
 <!-- Databases -->
