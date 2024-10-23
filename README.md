@@ -105,10 +105,3 @@ Git, Docker, Tableau, Power BI, SQL Server Reporting Services (SSRS), AWS
 
 **Techniques & Methods:**  
 Statistical Analysis, Predictive Modeling, Time Series Analysis, Machine Learning (Supervised Learning), Natural Language Processing (NLP), Cross-Validation, Data Wrangling, Model Deployment, ETL
-
----
-
-## Projects
-
-**Suicide Rate Tracker:**  
-Analyzed 1 million+ suicide records using Pandas & NumPy, improving data accuracy by 89%. Created [Tableau visualizations](https://public.tableau.com/views/VitalGuardAnalytics/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) that boosted evidence-based policy development by 15%.
