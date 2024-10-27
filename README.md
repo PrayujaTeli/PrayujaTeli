@@ -89,7 +89,7 @@ _June 2018 - March 2019_
 
 - Led the migration of legacy customer data from ODK and FileMaker Pro databases to an SQL-based system, ensuring data integrity for 1 million+ records, which improved data accessibility and reporting efficiency by 40%.
 - Developed a JavaScript-based workflow configuration system that streamlined data entry processes, reducing manual effort by 50% and saving over 200 hours annually in operational time.
-• Created dashboards using Tableau to visualize key performance indicators (KPIs) for client projects, providing stakeholders with real-time insights that improved project tracking and decision-making efficiency by 25%.
+- Created dashboards using Tableau to visualize key performance indicators (KPIs) for client projects, providing stakeholders with real-time insights that improved project tracking and decision-making efficiency by 25%.
 
 ## Skills
 
