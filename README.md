@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
-👨‍💻 Innovative Dashboards can be found here [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes)<br>
+👨‍💻 Innovative Dashboards can be found here [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes).<br>
 📝 I regularly write blogs on [Medium](https://medium.com/@teliprayuja). <br>
-📫 You can reach me to: [pst29@drexel.edu](pst29@drexel.edu)<br>
+📫 You can reach me to: [pst29@drexel.edu](pst29@drexel.edu).<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,27 +70,26 @@ _Expected June 2025_
 **McCollister's Global Services, Inc.** | New Jersey, US  
 _July 2024 - Present_
 
-- Developed interactive Power BI dashboards to track & analyze 100k+ records, improving payroll efficiency by 25%.
-- Designed & optimized SQL Server scripts to manage 500k+ B2B orders, reducing labor by 50+ hours per month. Automated 25+ custom reports using SQL Server Reporting Services & saved 30+ hours of data retrieval time.
+- Created a dashboard for the payroll department using Power BI, automating payroll data analysis and reducing discrepancies by 25%, leading to a 30% decrease in payroll processing time.
+- Designed and optimized SQL Server scripts to manage 500k+ B2B orders, reducing labor by 50+ hours/month.
+- Automated 25+ custom reports using SQL Server Reporting Services & saved 30+ client hours of data retrieval.
+- Conducted exploratory data analysis on customer behavior utilizing statistical techniques, leading to a 10% reduction in customer churn through targeted retention strategies, which increased customer lifetime value by 15%.
 
 ### Lead Data Scientist  
 **Krishagni Solutions Pvt Ltd** | Maharashtra, India  
 _April 2019 - September 2023_
 
-- Led 6+ healthcare research initiatives focused on COVID-19, Breast Cancer, & Alzheimer's Disease, utilizing Python, REST APIs, & SQL, resulting in a 93% F1 score for data analysis.
-- Built & maintained a private [dashboard/catalog](https://demo.openspecimen.org/#/specimen-catalogs/1/dashboard) with 1 million+ records, reducing research time by 30+ hours per user.
-- Developed a diabetes prediction model using logistic regression, achieving 85% accuracy by analyzing key risk factors across 100k patient records for the University of Cyprus.
-- Developed a Support Vector Machine (SVM) model to classify breast cancer tumors as benign or malignant, resulting in a high classification accuracy of 89%, & providing diagnostics for early intervention in breast cancer patients.
+- Led 6+ healthcare research initiatives focused on COVID-19, breast cancer, and Alzheimer’s disease using Python, Web APIs, and SQL Server, resulting in a 93% F1 score, which improved predictive data analysis accuracy by 25%.
+- Developed a diabetes prediction model using logistic regression, achieving 85% accuracy by analyzing key risk factors across 100,000 patient records, leading to a 15% increase in early diabetes detection rates.
+- Created a Support Vector Machine (SVM) model to classify breast cancer tumors as benign or malignant, achieving 89% classification accuracy, improving diagnostic capabilities, and facilitating early intervention in 30% of patients.
 
 ### Analyst  
 **eClerx Pvt Ltd** | Maharashtra, India  
 _June 2018 - March 2019_
 
-- Led the migration of legacy customer data from ODK & FileMaker Pro databases to a SQL-based system for 5+ clients, ensuring data integrity for 1 million+ records using ETL.
-- Developed a JavaScript-based workflow configuration system that streamlined data entry, reducing manual effort by 50% & saving 200+ hours annually.
-- Trained 10+ US bio-banking institutions & 15+ internal team members on data analysis techniques, improving decision-making with advanced data tools.
-
----
+- Led the migration of legacy customer data from ODK and FileMaker Pro databases to an SQL-based system, ensuring data integrity for 1 million+ records, which improved data accessibility and reporting efficiency by 40%.
+- Developed a JavaScript-based workflow configuration system that streamlined data entry processes, reducing manual effort by 50% and saving over 200 hours annually in operational time.
+• Created dashboards using Tableau to visualize key performance indicators (KPIs) for client projects, providing stakeholders with real-time insights that improved project tracking and decision-making efficiency by 25%.
 
 ## Skills
 
