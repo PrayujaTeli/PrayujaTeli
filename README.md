@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayuja</h1>
-<h2 align="center"> A Passionate Data Scientist</h2>
+<h2 align="center"> A Passionate Data Analyst</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
@@ -52,7 +52,7 @@
 
 ## Summary
 
-Data Scientist with 5+ years of experience across Healthcare, IT, & Distribution Services, specializing in developing impactful data-driven solutions. Proven success in driving efficiency & accuracy in projects addressing critical issues such as COVID-19, Breast Cancer, Diabetes, & Alzheimer's Disease.
+Data Analyst with 5+ years of experience across Healthcare, IT, & Distribution Services, specializing in developing impactful data-driven solutions. Proven success in driving efficiency & accuracy in projects addressing critical issues such as COVID-19, Breast Cancer, Diabetes, & Alzheimer's Disease.
 
 ---
 
@@ -75,7 +75,7 @@ _July 2024 - Present_
 - Automated 25+ custom reports using SQL Server Reporting Services & saved 30+ client hours of data retrieval.
 - Conducted exploratory data analysis on customer behavior utilizing statistical techniques, leading to a 10% reduction in customer churn through targeted retention strategies, which increased customer lifetime value by 15%.
 
-### Lead Data Scientist  
+### Lead Data Analyst  
 **Krishagni Solutions Pvt Ltd** | Maharashtra, India  
 _April 2019 - September 2023_
 
