@@ -44,63 +44,61 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayujateli&show_icons=true&locale=en&layout=compact" alt="prayujateli" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayujateli&" alt="prayujateli" /></p>
 
-# Prayuja Teli
+# Prayuja Teli - Resume
 
-[GitHub](https://github.com/PrayujaTeli) | [LinkedIn](https://www.linkedin.com/in/teliprayuja) | [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes) | [Portfolio](https://prayujateli.github.io/Portfolio/) | [Medium](https://medium.com/@teliprayuja) | [pst29@drexel.edu](mailto:pst29@drexel.edu) | +1 (215) 669 1582
+## Contact Information
+- [LinkedIn](https://www.linkedin.com/in/teliprayuja)
+- [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes)
+- [GitHub](https://github.com/PrayujaTeli)
+- [Portfolio](https://prayujateli.github.io/Portfolio/)
+- Email: [pst29@drexel.edu](mailto:pst29@drexel.edu)
+- Phone: +1 (215) 669 1582
 
 ---
 
 ## Summary
-
-Data Analyst with 5+ years of experience across Healthcare, IT, & Distribution Services, specializing in developing impactful data-driven solutions. Proven success in driving efficiency & accuracy in projects addressing critical issues such as COVID-19, Breast Cancer, Diabetes, & Alzheimer's Disease.
+Data Analyst with 5+ years of experience across Healthcare, IT, and Supply Chain Management, skilled in developing data-driven solutions. Specializes in analyzing COVID-19, breast cancer, diabetes, and Alzheimer’s disease datasets.
 
 ---
 
-## Education
+## Skills
+### Languages and Databases
+- Python | NumPy, Pandas | Matplotlib, Seaborn, Plotly | Beautiful Soup, Selenium | Scikit-learn | SQL, SQL Server, Oracle, SQLite, PostgreSQL | Cassandra
 
-**Drexel University**  
-Master of Science in Computer Science, Pennsylvania, US  
-_Expected June 2025_
+### Tools and Techniques
+- Data Extraction, Cleaning, & Visualization | Exploratory Data Analysis (EDA) | Tableau, Power BI, SQL Server Reporting Services (SSRS) | Statistical Analysis, A/B Testing | Warehouse Management System (WMS), SQL Server Management Studio (SSMS), ETL
 
 ---
 
 ## Professional Experience
 
 ### System Analyst Intern  
-**McCollister's Global Services, Inc.** | New Jersey, US  
-_July 2024 - Present_
-
-- Created a dashboard for the payroll department using Power BI, automating payroll data analysis and reducing discrepancies by 25%, leading to a 30% decrease in payroll processing time.
-- Designed and optimized SQL Server scripts to manage 500k+ B2B orders, reducing labor by 50+ hours/month.
-- Automated 25+ custom reports using SQL Server Reporting Services & saved 30+ client hours of data retrieval.
-- Conducted exploratory data analysis on customer behavior utilizing statistical techniques, leading to a 10% reduction in customer churn through targeted retention strategies, which increased customer lifetime value by 15%.
+**McCollister's Global Services, Inc.** - New Jersey, USA  
+*Jul 2024 - Jan 2025*
+- Created a Power BI dashboard for payroll analysis to reduce discrepancies by 25% and cut processing time by 30%.
+- Designed and optimized SQL Server scripts to manage 500,000+ B2B orders, reducing labor by 50+ hours/month.
+- Analyzed 500,000+ logistics records to optimize transportation routes and reduce costs by 15%, using SQL Server and Power BI.
+- Constructed and automated 25+ custom reports to save 30+ client hours monthly on data retrieval, using SQL Server Reporting Services and SQL Server Management Studio.
 
 ### Lead Data Analyst  
-**Krishagni Solutions Pvt Ltd** | Maharashtra, India  
-_April 2019 - September 2023_
-
-- Led 6+ healthcare research initiatives focused on COVID-19, breast cancer, and Alzheimer’s disease using Python, Web APIs, and SQL Server, resulting in a 93% F1 score, which improved predictive data analysis accuracy by 25%.
-- Developed a diabetes prediction model using logistic regression, achieving 85% accuracy by analyzing key risk factors across 100,000 patient records, leading to a 15% increase in early diabetes detection rates.
-- Created a Support Vector Machine (SVM) model to classify breast cancer tumors as benign or malignant, achieving 89% classification accuracy, improving diagnostic capabilities, and facilitating early intervention in 30% of patients.
+**OpenSpecimen (Biobanking LIMS)** - Maharashtra, India  
+*Apr 2019 - Sep 2023*
+- Built a Python-based analytical reporting tool for OpenSpecimen, delivering actionable insights and driving a 35% increase in user adoption.
+- Designed 25+ interactive dashboards on patient trends and disease outcomes, to identify patterns in COVID-19, diabetes, Alzheimer’s, and breast cancer, leveraging Tableau.
+- Planned a logistic regression model to analyze 100,000+ patient records, achieving 85% accuracy and improving early diabetes detection rates by 15%.
+- Executed predictive models for early disease detection, achieving 85% model accuracy in predicting cancer risk using machine learning algorithms.
+- Implemented an SVM model to classify tumors as benign or malignant, achieving 89% accuracy and enabling early intervention in 30% of patients.
+- Created dashboards using Tableau to visualize key performance indicators (KPIs) for client projects, improving project tracking and decision-making efficiency by 25%.
 
 ### Analyst  
-**eClerx Pvt Ltd** | Maharashtra, India  
-_June 2018 - March 2019_
+**eClerx Pvt Ltd** - Maharashtra, India  
+*Jun 2018 - Mar 2019*
+- Modeled and automated financial reports, reducing manual effort by 30%, using SQL and Excel, in collaboration with the finance department.
+- Developed predictive models using Linear Regression to forecast the number of monthly technician requests, improving resource allocation by 25%.
 
-- Led the migration of legacy customer data from ODK and FileMaker Pro databases to an SQL-based system, ensuring data integrity for 1 million+ records, which improved data accessibility and reporting efficiency by 40%.
-- Developed a JavaScript-based workflow configuration system that streamlined data entry processes, reducing manual effort by 50% and saving over 200 hours annually in operational time.
-- Created dashboards using Tableau to visualize key performance indicators (KPIs) for client projects, providing stakeholders with real-time insights that improved project tracking and decision-making efficiency by 25%.
+---
 
-## Skills
-
-**Programming & Libraries:**  
-Python (Pandas, NumPy, TensorFlow, Keras, PyTorch, Scikit-learn, Beautiful Soup, Matplotlib, Seaborn, LightGBM, XGBoost)
-
-**Databases:**  
-SQL, Cassandra, PostgreSQL, Oracle, SQLite, SQL Server, T-SQL
-
-**Tools & Platforms:**  
-Git, Docker, Tableau, Power BI, SQL Server Reporting Services (SSRS), AWS
-
-**Techniques & Methods:**  
-Statistical Analysis, Predictive Modeling, Time Series Analysis, Machine Learning (Supervised Learning), Natural Language Processing (NLP), Cross-Validation, Data Wrangling, Model Deployment, ETL
+## Education
+**Drexel University** - Pennsylvania, USA  
+*Master of Science in Computer Science*  
+*Sep 2023 - Jun 2025*
