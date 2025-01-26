@@ -32,7 +32,6 @@
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayujateli&show_icons=true&locale=en&layout=compact" alt="prayujateli" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayujateli&" alt="prayujateli" /></p>
 
 # Prayuja Teli - Resume
 
