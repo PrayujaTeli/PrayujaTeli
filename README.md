@@ -32,12 +32,12 @@
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayujateli&show_icons=true&locale=en&layout=compact" alt="prayujateli" /></p>
-
+<br><br>
 
 ## Summary
 Data Analyst with 5+ years of experience across Healthcare, IT, and Supply Chain Management, skilled in developing data-driven solutions. Specializes in analyzing COVID-19, breast cancer, diabetes, and Alzheimer’s disease datasets.
 
----<br><br>
+
 
 ## Skills
 ### Languages and Databases
