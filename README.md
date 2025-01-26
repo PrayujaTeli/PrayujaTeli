@@ -37,7 +37,7 @@
 ## Summary
 Data Analyst with 5+ years of experience across Healthcare, IT, and Supply Chain Management, skilled in developing data-driven solutions. Specializes in analyzing COVID-19, breast cancer, diabetes, and Alzheimer’s disease datasets.
 
----
+---<br><br>
 
 ## Skills
 ### Languages and Databases
