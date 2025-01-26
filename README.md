@@ -29,8 +29,6 @@
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
 <!-- Techniques & Methods (No logos available) -->
-<img src="https://img.icons8.com/color/452/power-bi.png" alt="Power BI" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayujateli&show_icons=true&locale=en&layout=compact" alt="prayujateli" /></p>
