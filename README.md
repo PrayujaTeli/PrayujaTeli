@@ -54,7 +54,7 @@ A Data Analyst with 5+ years of experience in the Healthcare, IT, and Supply Cha
 
 ## Professional Experience
 
-### Data System Analyst Intern  
+### System Analyst Intern (Data Processing)
 **McCollister's Global Services, Inc.** - New Jersey, USA  
 *Jul 2024 - Jan 2025*
 - Created a Power BI dashboard for payroll analysis to reduce discrepancies by 25% and cut processing time by 30%.
