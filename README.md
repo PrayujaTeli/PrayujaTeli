@@ -62,7 +62,7 @@ Senior Data Analyst with 5+ years of experience in the Healthcare, IT, and Suppl
 - Analyzed 500,000+ logistics records to optimize transportation routes and reduce costs by 15%, using SQL Server and Power BI.
 - Constructed and automated 25+ custom reports to save 30+ client hours monthly on data retrieval, using SQL Server Reporting Services and SQL Server Management Studio.
 
-### Lead Data Analyst  
+### Senior Data Analyst  
 **OpenSpecimen (Biobanking LIMS)** - Maharashtra, India  
 *Apr 2019 - Sep 2023*
 - Built a Python-based analytical reporting tool for OpenSpecimen, delivering actionable insights and driving a 35% increase in user adoption.
