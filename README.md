@@ -5,7 +5,6 @@
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
 👨‍💻 Innovative Dashboards can be found here [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes).<br>
 📝 I regularly write blogs on [Medium](https://medium.com/@teliprayuja). <br>
-📫 You can reach me to: [pst29@drexel.edu](pst29@drexel.edu).<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
