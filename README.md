@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayuja</h1>
-<h2 align="center">Data Analyst</h2>
+<h2 align="center"> Analyst</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
