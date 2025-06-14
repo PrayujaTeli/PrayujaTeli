@@ -82,4 +82,3 @@ A Data Analyst with 5+ years of experience in the Healthcare, IT, and Supply Cha
 ## Education
 **Drexel University** - Pennsylvania, USA  
 *Master of Science in Computer Science*  
-*Sep 2023 - Jun 2025*
