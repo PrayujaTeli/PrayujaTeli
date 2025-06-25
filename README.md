@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayuja</h1>
-<h2 align="center"> Analyst</h2>
+<h2 align="center"> Data Engineer/Analyst</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
@@ -37,7 +37,7 @@
 <br>
 <br><!-- Add extra space here -->
 ## Summary
-A Data Analyst with 5+ years of experience in the Healthcare, IT, and Supply Chain Management industries, specializing in analyzing datasets related to COVID-19, breast cancer, diabetes, Alzheimer’s, and kidney disease.
+A Data Engineer/Analyst  with 6 years of experience in the Healthcare, IT, and Supply Chain Management industries, specializing in analyzing datasets related to COVID-19, breast cancer, diabetes, Alzheimer’s, and kidney disease.
 
 
 
@@ -61,7 +61,7 @@ A Data Analyst with 5+ years of experience in the Healthcare, IT, and Supply Cha
 - Analyzed 500,000+ logistics records to optimize transportation routes and reduce costs by 15%, using SQL Server and Power BI.
 - Constructed and automated 25+ custom reports to save 30+ client hours monthly on data retrieval, using SQL Server Reporting Services and SQL Server Management Studio.
 
-### Associate Data Analyst  
+### Associate Data Engineer   
 **OpenSpecimen (Biobanking LIMS)** - Maharashtra, India  
 *Apr 2019 - Sep 2023*
 - Built a Python-based analytical reporting tool for OpenSpecimen, delivering actionable insights and driving a 35% increase in user adoption.
