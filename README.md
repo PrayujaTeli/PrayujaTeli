@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prayujateli&label=Profile%20views&color=0e75b6&style=flat" alt="prayujateli" /> </p>
 
 👨‍💻 All of my projects are available at [Github](https://github.com/PrayujaTeli?tab=repositories).<br>
-👨‍💻 Innovative Dashboards can be found here [Tableau](https://public.tableau.com/app/profile/prayuja.teli/vizzes).<br>
+👨‍💻 Innovative Dashboards can be found here [Tableau](https://public.tableau.com/app/profile/prayuja/vizzes).<br>
 📝 I regularly write blogs on [Medium](https://medium.com/@teliprayuja). <br>
 
 <h3 align="left">Connect with me:</h3>
